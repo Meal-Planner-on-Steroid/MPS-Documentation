@@ -1,11 +1,11 @@
 input: .
 output: docs
-url: # Add your website address here
+url: https://meal-planner-on-steroid.github.io/MPS-Mobile-Doc/
 branding:
-  title: Project Name
+  title: MPS Documentation
   label: Docs
 links:
-- text: Getting Started
-  link: https://retype.com/guides/getting-started/
+- text: Play Store
+  link: https://play.google.com/store/apps/details?id=io.github.alifirhas.mps
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
