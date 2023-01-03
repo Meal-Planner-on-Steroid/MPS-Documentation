@@ -7,5 +7,6 @@ branding:
 links:
 - text: Play Store
   link: https://play.google.com/store/apps/details?id=io.github.alifirhas.mps
+  icon: apps
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
