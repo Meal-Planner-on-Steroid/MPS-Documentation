@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://meal-planner-on-steroid.github.io/MPS-Mobile-Doc/sitemap.xml.gz
+Sitemap: https://meal-planner-on-steroid.github.io/MPS-Documentation/sitemap.xml.gz
