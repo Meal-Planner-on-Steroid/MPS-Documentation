@@ -6,9 +6,9 @@ label: Page
 
 Ini merupakan dokumentasi dari setiap element, fitur, dan proses yang terjadi pada setiap halaman MPS
 
-List halaman
-
-- Halaman 1
-- Halaman 2
-- Halaman 3
-- Halaman 4
+- [Home](home_page.md)
+- [Me](Me/readme.md)
+- [Menu](Menu-Makanan/readme.md)
+- [Riwayat Rekomendasi Menu Makanan](Riwayat/readme.md)
+- [Profil](profil_page.md)
+- [Setting](setting_page.md)

@@ -11,8 +11,6 @@ Fitur yang terdapat dalam MPS saat ini adalah:
 - [Hitung Kebutuhan Gizi](hitung-kebutuhan-gizi.md)
 - [Buat Rekomendasi Menu Makanan](buat_rekomendasi_menu_makanan.md)
 - [Catat Progress Rencana Diet](catat_progress.md)
-- Daftar Menu
-- Riwayat Rekomendasi Menu Makanan
 
 !!!
 Fitur akan terus berubah seiring dengan update

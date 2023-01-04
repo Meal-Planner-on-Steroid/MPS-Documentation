@@ -2,7 +2,7 @@
 order: 5
 ---
 
-# Riwayat
+# Riwayat Rekomendasi Menu Makanan
 
 ## List riwayat
 
