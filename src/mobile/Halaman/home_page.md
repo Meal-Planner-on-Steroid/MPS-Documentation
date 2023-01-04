@@ -2,7 +2,7 @@
 order: 10
 ---
 
-# Home Page
+# Home
 
 ![Halaman Home](../../static/images/mobile-app/home.jpg)
 
