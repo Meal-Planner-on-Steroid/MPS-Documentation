@@ -1,9 +1,18 @@
+---
+order: 10
+---
 # Hitung Kebutuhan Gizi
 
 Perhitungan kebutuhan gizi anda dapat dilakukan pada dua tempat, yaitu:
 
 1. Ketika anda melakukan login pada aplikasi
-2. Melalui fitur menu
+2. Melalui halaman ini
+
+||| Setelah Login
+![Splash Hitung Kebutuhan Gizi](../../static/images/mobile-app/hitung-kebutuhan-gizi-splash.jpg)
+||| Kebutuhan Gizi
+![Hitung Kebutuhan Gizi](../../static/images/mobile-app/hitung_kebutuhan_gizi.jpg)
+|||
 
 Meskipun fitur ini dapat dilakukan dalam dua halaman yang berbeda, form yang harus anda isi memiliki isi yang sama. Data yang harus anda masukkan ke dalam form untuk menggunakan fitur ini adalah:
 
@@ -37,6 +46,10 @@ Pilihan dari tingkat aktivitas
 
 ## Hasil
 
-Hasil dapat dilihat di bawah form
+Hasil dapat dilihat di bawah form dan [Halaman Me](../Halaman/Me/readme.md)
 
-Dan juga pada halaman
+||| Di bawah form
+![Hasil Hitung Kebutuhan Gizi](../../static/images/mobile-app/hasil_hitung_kebutuhan_gizi.jpg)
+||| Halaman Me
+![Hasil Hitung Kebutuhan Gizi Halaman me](../../static/images/mobile-app/hasil_hitung_kebutuhan_gizi_me.jpg)
+|||
