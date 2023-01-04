@@ -2,7 +2,7 @@
 
 Meal Planner on Steroid atau MPS merupakan aplikasi yang membuat rekomendasi rencana diet secara otomatis dengan menggunakan ✨ **Algoritma Genetika** ✨ yang didasarkan dengan ✨ **Kebutuhan Gizi** ✨ yang anda miliki.
 
-![banner](/static/images/home-banner.jpg)
+![banner](static/images/home-banner.jpg)
 
 Tidak perlu hal rumit untuk membuat rencana diet, dengan satu tombol, kami akan memberikan rencana diet yang sesuai untuk anda.
 
@@ -14,7 +14,7 @@ Tidak perlu hal rumit untuk membuat rencana diet, dengan satu tombol, kami akan 
 
 Untuk memulai menggunakan MPS, anda perlu mengunduh aplikasi kami pada [!button variant="light" text="Play Store"](https://play.google.com/store/apps/details?id=io.github.alifirhas.mps)
 
-![playstore install](static/images/mobile-app/playstore-install.jpg)
+![Play Store install](static/images/mobile-app/playstore-install.jpg)
 
 Klik tombol [!button variant="success" text="Install"] dan tunggu proses instalasi dari Play Store selesai, kemudian klik [!button variant="success" text="Buka"]
 
