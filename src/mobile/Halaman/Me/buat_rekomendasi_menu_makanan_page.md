@@ -1,3 +1,6 @@
+---
+order: 100
+---
 # Buat Rekomendasi Menu Makanan
 
 Untuk membuat rekomendasi makanan anda perlu pergi ke [Halaman Me](readme.md) dan menekan tombol [!badge variant="warning" text="Buat Rekomendasi Menu Makanan"]. Setelah anda menekan tombol tersebut, anda akan dialihkan ke halaman ini.

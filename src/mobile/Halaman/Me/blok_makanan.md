@@ -1,3 +1,6 @@
+---
+order: 7
+---
 # Blok Makanan
 
 ## Cari blok makanan
