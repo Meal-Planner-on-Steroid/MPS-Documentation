@@ -1,3 +1,9 @@
 # Buat Rekomendasi Menu Makanan
 
-some content
+## Hasil Rekomendasi
+
+## Terima hasil rekomendasi
+
+## Buat kembali rekomendasi
+
+## Batal gunakan rekomendasi

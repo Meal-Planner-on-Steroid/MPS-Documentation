@@ -137,6 +137,10 @@ Untuk menutup detail anda bisa menekan tombol [!button variant="light" icon="che
 Disini anda bisa melihat rencana diet yang direkomendasikan oleh MPS untuk anda setelah anda membuat rekomendasi menu makanan. Untuk melihat rencana diet kemarin anda bisa melakukan swipe atau mengusap ke sebelah kanan dan untuk melihat rencana diet besok anda bisa melakukan swipe atau mengusap ke sebelah kiri.
 
 !!!
+**Jika** terjadi loading yang terlalu lama, anda bisa menekan tombol refresh yang melayang di bagian bawah kanan
+!!!
+
+!!!
 Saat ini **Catat progress minum** dan **Catat olahraga hari ini** masih belum bisa dilakukan dan kami minta maaf akan hal itu
 !!!
 
@@ -146,9 +150,25 @@ Saat ini **Catat progress minum** dan **Catat olahraga hari ini** masih belum bi
 
 #### Buat rekomendasi makanan
 
+Untuk membuat rekomendasi makanan, anda perlu menuju ke halaman [Me](mobile/Halaman/Me/readme.md) dengan menekan tab [!button variant="light" icon="person-fill" text="Me"]
+
+![me page](static/images/mobile-app/me_page.jpg)
+
+Pada halaman ini anda akan menekan tombol [!button variant="danger" text="Buat Rekomendasi Menu Makanan"]. Anda akan menunggu untuk beberapa saat selagi menunggu proses pembuatan rekomendasi menu untuk anda dilakukan. Setelah proses selesai anda akan menuju ke [langkah selanjutnya](readme.md#lihat-hasil) dan ditampilkan [Hasil Rekomendasi](mobile/Halaman/Me/buat_rekomendasi_menu_makanan_page.md#hasil-rekomendasi)
+
 ---
 
 #### Lihat hasil
+
+Pada halaman ini anda akan ditampilkan hasil rekomendasi menu yang akan anda gunakan untuk rencana diet. Di dalam halaman ini anda bisa melihat hasil rencana diet yang telah dibuat yang terdiri dari 3 menu makanan dan 2 camilan untuk 7 hari ke depan.
+
+||| Hasil rekomendasi
+![hasil rekomendasi](static/images/mobile-app/hasil-rekomendasi.jpg)
+||| Hasil rekomendasi detail hari
+![hasil rekomendasi detail](static/images/mobile-app/hasil_rekomendasi_detail_page.jpg)
+|||
+
+Anda bisa menggunakan rekomendasi menu makanan dengan menekan tombol [!badge variant="success" text="berwarna hijau"]. Untuk membuat rekomendasi lagi anda bisa menekan tombol [!badge variant="warning" text="berwarna orange"]. Untuk membatalkan proses pemberian rekomendasi, anda bisa menekan tombol [!badge variant="danger" text="berwarna merah"].
 
 ---
 
