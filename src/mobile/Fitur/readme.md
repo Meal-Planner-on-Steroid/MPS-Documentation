@@ -5,11 +5,13 @@ expanded: true
 
 # Penggunaan fitur MPS
 
-Ini merupakan dokumentasi dari penggunaan fitur di aplikasi mobile MPS
+Fitur yang terdapat dalam MPS saat ini adalah:
 
-List fitur
+- [Autentikasi](auth.md)
+- [Hitung Kebutuhan Gizi](hitung-kebutuhan-gizi.md)
+- [Buat Rekomendasi Menu Makanan](buat_rekomendasi_menu_makanan.md)
+- [Catat Progress Rencana Diet](catat_progress.md)
 
-- Fitur 1
-- Fitur 2
-- Fitur 3
-- Fitur 4
+!!!
+Fitur akan terus berubah seiring dengan update
+!!!
